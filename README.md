@@ -13,6 +13,10 @@ BLParser
 
 This file is learning how parsing works. While it isn't very applicable to every day use of coding, it was possibly the hardest concept to learn. It uses many recursive calls and a significant amount of dedication to get correct. Overall, it displays my abilities as a programmer.
 
+ListWithTwoSmartNodes
+
+This file is an example of kernel method implementation. It shows that if I have to, I can create my own component for use.
+
 MapWithHashing
 
 This file uses hashing, another concept in Java that helps store things in an easy to find way.
