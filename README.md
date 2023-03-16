@@ -19,7 +19,7 @@ This file is an example of kernel method implementation. It shows that if I have
 
 MapWithHashing
 
-This file uses hashing, another concept in Java that helps store things in an easy to find way.
+This file uses hashing, another concept in Java that helps store and find things quickly.
 
 TagCloudGeneratorSJC
 
