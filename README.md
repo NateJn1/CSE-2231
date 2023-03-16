@@ -7,11 +7,11 @@ All of these except the SJC file uses OSU Component libraries. They are similar 
 
 BinarySearchTreeMethods
 
-This file shows the use of not only Binary Search Trees, a sorting algorithm that can quickly find things, but also the ability to create methods. 
+This file shows the use of not only Binary Search Trees, a sorting algorithm that can quickly find things, but also the ability to create methods given pre-existing components. 
 
 BLParser
 
-This file is learning how parsing works. While it isn't very applicable to every day use of coding, it was possibly the hardest concept to learn. It uses many recursive calls and a significant amount of dedication to get correct.
+This file is learning how parsing works. While it isn't very applicable to every day use of coding, it was possibly the hardest concept to learn. It uses many recursive calls and a significant amount of dedication to get correct. Overall, it displays my abilities as a programmer.
 
 MapWithHashing
 
